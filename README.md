@@ -8,7 +8,7 @@ Projects
 
 ## Municipal Web Application (GestiCab)
 
-https://sbt.gesticab.es/ (San Bartolome de Tirajana, Gran Canaria, Spain)
+https://sbt.gesticab.es/ (San Bartolome de Tirajana, Gran Canaria, Spain)  
 https://lpa.gesticab.es/ (Las Palmas de Gran Canaria, Gran Canaria, Spain)
 
 **Role: Full-Stack Development (Laravel)**
